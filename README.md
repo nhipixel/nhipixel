@@ -3,6 +3,7 @@
 # hi, i'm Nhi (≧◡≦)
 
 </div>
+
 # 💫 about me:
 🎓 i’m currently pursuing an honours bsc in computer science @ york university. <br>
 🌱 i’m passionate about software engineering and AI/ML—especially when it’s used to build tools that promote accessibility, equity, and opportunity. i love building cool things that help communities, learning along the way, and collaborating with people who care about impact. <br><br>
