@@ -6,7 +6,7 @@
 
 # 💫 about me:
 🎓 i’m currently pursuing an honours bsc in computer science @ york university. <br>
-🌱 i’m passionate about software engineering and AI/ML, especially when it’s used to promote accessibility, equity, and opportunity. i love building cool projects that help communities, learning along the way, and collaborating with people who care about impact. 
+🌱 i’m passionate about software engineering and AI/ML, especially when it’s used to promote accessibility, equity, and opportunity. i love building cool projects that help communities, learning along the way, and collaborating with people who care about impact. <br>
 🍃 over the years, i’ve mentored IT for girls in remote villages in vietnam, organized youth leadership workshops with AIESEC, run math modeling competitions, and led programs for women in STEM. those moments remind me why i build.<br><br>
 
 # 💻 tech stack:
