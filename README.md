@@ -10,7 +10,7 @@
 🌱 i’m passionate about software engineering, AI/ML, and data-driven solutions, especially when it’s used to promote accessibility, equity, and opportunity. i love building cool projects that help communities, learning along the way, and collaborating with people who care about impact. <br>
 
 🧸 currently: <br>
-\>> [full-time] AI engineer intern @ pitstop,  <br>
+\>> [full-time] AI engineer intern @ pitstop  <br>
 \>> [part-time] software engineer @ develop for good, AI & software developer @ pharmshift <br>
 \>> [misc] vp @ AI for impact <br>
 
