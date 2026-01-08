@@ -12,6 +12,7 @@
 🧸 currently: <br>
 \>> [full-time] AI engineer intern @ pitstop,  <br>
 \>> [part-time] software engineer @ develop for good, AI & software developer @ pharmshift <br>
+\>> [misc] vp @ AI for impact <br>
 
 🍃 over the years, i’ve mentored IT for girls in remote villages in vietnam, organized youth leadership workshops with AIESEC, run math modeling competitions, and led programs for women in STEM. those moments remind me why i build.<br><br>
 
