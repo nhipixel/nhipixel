@@ -43,7 +43,7 @@
 ### **AI/ML, DevOps, Cloud & Developer Tools**
 ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/langchain-0FA958?style=for-the-badge)
-![Microsoft Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure AI](https://img.shields.io/badge/azure%20ai-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/azure%20devops-%230072C6.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/google%20cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -53,7 +53,6 @@
 ![Power BI](https://img.shields.io/badge/power%20bi-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Agile](https://img.shields.io/badge/agile-0052CC?style=for-the-badge)
-![SDLC](https://img.shields.io/badge/SDLC-software%20development%20life%20cycle-%23333?style=for-the-badge)
 
 # 💫 hobbies
 
