@@ -11,7 +11,7 @@
 
 🧸 currently: <br>
 \>> [full-time] AI engineer intern @ pitstop  <br>
-\>> [part-time] drone AI & computer vision developer intern @ mion forest; software engineer @ develop for good <br>
+\>> [part-time] drone AI & computer vision developer intern @ mion forest <br>
 \>> [misc] vp @ AI for impact; AI/imaging & flight computer software member @ arbalest rocketry <br>
 
 🍃 over the years, i’ve mentored IT for girls in remote villages in vietnam, organized youth leadership workshops with AIESEC, run math modeling competitions, and led programs for women in STEM. those moments remind me why i build.<br><br>
