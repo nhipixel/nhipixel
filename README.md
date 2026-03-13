@@ -7,7 +7,7 @@
 # 🌟 about me:
 🎓 honours bsc in computer science @ york university. <br>
 
-🌱 i’m passionate about software engineering, AI/ML, and data-driven solutions, especially when it’s used to promote accessibility, equity, and opportunity. i love building cool projects that help communities, learning along the way, and collaborating with people who care about impact. <br>
+🌱 i’m passionate about software engineering, AI/ML, edge AI, and data-driven solutions, especially when it’s used to promote accessibility, equity, and opportunity. i love building cool projects that help communities, learning along the way, and collaborating with people who care about impact. <br>
 
 🧸 currently: <br>
 \>> [full-time] AI engineer intern @ pitstop  <br>
