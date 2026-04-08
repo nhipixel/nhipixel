@@ -12,7 +12,7 @@
 🧸 currently: <br>
 \>> [full-time] AI engineer intern @ pitstop  <br>
 \>> [part-time] drone AI & computer vision developer intern @ mion forest <br>
-\>> [misc] vp @ AI for impact; tech lead @ google developer group at York; AI/imaging & flight computer software member @ arbalest rocketry <br>
+\>> [misc] vp @ AI for impact; tech lead @ google developer group at york; AI/imaging & flight computer software member @ arbalest rocketry <br>
 
 🍃 over the years, i’ve built software for nonprofits, mentored IT for girls in remote villages in vietnam, organized youth leadership workshops with AIESEC, run math modeling competitions, and led programs for women in STEM. those moments remind me why i build.<br><br>
 
