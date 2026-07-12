@@ -7,12 +7,12 @@
 # 🌟 about me:
 🎓 honours bsc in computer science @ york university. <br>
 
-🌱 i’m passionate about software engineering, AI/ML, edge AI, and data-driven solutions, especially when it’s used to promote accessibility, equity, and opportunity. i love building cool projects that help communities, learning along the way, and collaborating with people who care about impact. <br>
+🌱 i’m passionate about AI/ML pipelines, autonomous tech, and software engineering, especially when it’s used to promote accessibility, equity, and opportunity. i love building cool projects that help communities, learning along the way, and collaborating with people who care about impact. <br>
 
 🧸 currently: <br>
-\>> [full-time] AI engineer intern @ pitstop  <br>
-\>> [part-time] drone AI & computer vision developer intern @ mion forest <br>
-\>> [misc] vp @ AI for impact; tech lead @ google developer group at york; AI/imaging & flight computer software member @ arbalest rocketry <br>
+\>> [full-time] software engineer intern @ fullbay  <br>
+\>> [part-time] drone AI & computer vision @ mion forest <br>
+\>> [misc] tech lead @ google developer group at york; AI/imaging & flight computer software member @ arbalest rocketry <br>
 
 🍃 over the years, i’ve built software for nonprofits, mentored IT for girls in remote villages in vietnam, organized youth leadership workshops with AIESEC, run math modeling competitions, and led programs for women in STEM. those moments remind me why i build.<br><br>
 
