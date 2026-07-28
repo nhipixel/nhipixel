@@ -7,7 +7,7 @@
 # 🌟 about me:
 🎓 honours bsc in computer science @ york university. <br>
 
-🌱 i’m passionate about AI/ML pipelines, autonomous tech, and software engineering, especially when it’s used to promote accessibility, equity, and opportunity. i love building cool projects that help communities, learning along the way, and collaborating with people who care about impact. <br>
+🌱 i’m passionate about AI/ML, autonomous tech, and software engineering, especially when it’s used to promote accessibility, equity, and opportunity. i love building cool projects that help communities, learning along the way, and collaborating with people who care about impact. <br>
 
 🧸 currently: <br>
 \>> [full-time] software engineer intern @ fullbay  <br>
