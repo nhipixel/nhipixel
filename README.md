@@ -7,12 +7,13 @@
 # 🌟 about me:
 🎓 honours bsc in computer science @ york university. <br>
 
-🌱 i’m passionate about AI/ML, autonomous tech, and software engineering, especially when it’s used to promote accessibility, equity, and opportunity. i love building cool projects that help communities, learning along the way, and collaborating with people who care about impact. <br>
+🌱 i’m passionate about autonomous systems, AI/ML software and infrastructure, and perception for physical AI. <br>
 
 🧸 currently: <br>
-\>> [full-time] software engineer intern @ fullbay  <br>
+\>> [full-time] AI developer intern @ CGI  <br>
 \>> [part-time] drone AI & computer vision @ mion forest <br>
-\>> [misc] tech lead @ google developer group at york; AI/imaging & flight computer software member @ arbalest rocketry <br>
+\>> [part-time] computer vision research assistant @ elder lab <br>
+\>> [misc] tech lead @ google developer group at york; some engineering design teams <br>
 
 🍃 over the years, i’ve built software for nonprofits, mentored IT for girls in remote villages in vietnam, organized youth leadership workshops with AIESEC, run math modeling competitions, and led programs for women in STEM. those moments remind me why i build.<br><br>
 
